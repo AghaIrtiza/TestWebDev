@@ -33,3 +33,4 @@ const identity = {Name:"Irtiza",
     Qualification:"MS", Age:0};
 printInDemo(identity.Name); 
 printInDemo(identity.Qualification); 
+//line add by Irtiza
